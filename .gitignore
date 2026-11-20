@@ -1,0 +1,16 @@
+# Private / not for public repo
+data/
+refs/
+archives/
+project_state.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+.venv/

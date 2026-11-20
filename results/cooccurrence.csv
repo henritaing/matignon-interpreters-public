@@ -1,0 +1,16 @@
+Interpreter_#_A,interpreter_1,interpreter_2,interpreter_3,interpreter_4,interpreter_5,interpreter_6,interpreter_7,interpreter_8,interpreter_9,interpreter_10,interpreter_11,interpreter_12,interpreter_13,interpreter_14,interpreter_15
+interpreter_1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+interpreter_2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+interpreter_3,0,0,0,9,12,1,13,1,0,0,0,0,0,0,0
+interpreter_4,0,0,9,0,8,1,4,1,0,0,0,0,0,0,1
+interpreter_5,0,0,12,8,0,0,12,0,0,0,0,0,0,0,0
+interpreter_6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+interpreter_7,0,0,13,4,12,0,0,3,1,0,0,0,0,0,0
+interpreter_8,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0
+interpreter_9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+interpreter_10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+interpreter_11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+interpreter_12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+interpreter_13,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+interpreter_14,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+interpreter_15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

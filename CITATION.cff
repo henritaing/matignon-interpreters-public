@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these annotations or code, please cite as below."
+title: "Interpreter Annotations for Matignon-LSF"
+authors:
+  - family-names: Taing
+    given-names: Henri
+    email: henri.taing.pro@gmail.com
+date-released: 2026-11-20
+version: "1.0.0"
+url: "https://github.com/henritaing/matignon-interpreters-public"
+repository-code: "https://github.com/henritaing/matignon-interpreters-public"
+license: MIT
